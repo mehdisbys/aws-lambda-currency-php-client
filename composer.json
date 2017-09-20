@@ -1,0 +1,15 @@
+{
+    "name": "mehdisbys/aws-lambda-php",
+    "description": "Script to invoke a AWS Lambda function",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Mehdi",
+            "email": "mehdi.souihed@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+            "aws/aws-sdk-php": "2.*"
+    }
+}
