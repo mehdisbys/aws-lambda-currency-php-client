@@ -4,6 +4,8 @@ This repository goes hand-in-hand with [AWS Lambda Currency](https://github.com/
 
 It invokes an AWS Lambda function returning a list of currencies from [Currency Layer API](https://currencylayer.com/)
 
+AWS documentation for [PHP library](http://docs.aws.amazon.com/aws-sdk-php/v2/guide/service-lambda.html)
+
 Example response :
 
   ```
